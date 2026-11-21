@@ -3,11 +3,11 @@
     {
       "id": "muse-weekly",
       "name": "Muse 订阅周用量（Power 档）",
-      "remaining_text": "剩余 96%",
+      "remaining_text": "剩余 90%",
       "reset_at": "2026-11-27T20:26:00+08:00",
       "reset_text": "2026-11-27 20:26 CST 重置",
       "status": "active",
-      "used_percent": 4
+      "used_percent": 10
     },
     {
       "id": "muse-referral-pool",
@@ -82,6 +82,6 @@
       "used_percent": null
     }
   ],
-  "updated_at": "2026-11-21T11:43:20+08:00",
-  "updated_at_text": "2026-11-21 11:43 CST"
+  "updated_at": "2026-11-21T17:43:21+08:00",
+  "updated_at_text": "2026-11-21 17:43 CST"
 }
