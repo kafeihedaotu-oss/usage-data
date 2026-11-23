@@ -3,11 +3,11 @@
   {
    "id": "muse-weekly",
    "name": "Muse 订阅周用量（Power 档）",
-   "remaining_text": "剩余 64%",
+   "remaining_text": "剩余 57%",
    "reset_at": "2026-11-27T20:26:00+08:00",
    "reset_text": "2026-11-27 20:26 CST 重置",
    "status": "active",
-   "used_percent": 36
+   "used_percent": 43
   },
   {
    "id": "muse-referral-pool",
@@ -39,7 +39,7 @@
   {
    "id": "gcp-gpu",
    "name": "GCP GPU 赠金（T4 / L4）",
-   "remaining_text": "剩余 $293.43",
+   "remaining_text": "剩余 $293.35",
    "reset_at": null,
    "reset_text": "赠金 2027-01-22 到期 · 配额 T4×1、L4×1",
    "status": "active",
@@ -66,20 +66,20 @@
   {
    "id": "dmit-front-traffic",
    "name": "DMIT 香港前置 · 流量",
-   "remaining_text": "剩余约 483 GB",
+   "remaining_text": "剩余约 475 GB",
    "reset_at": null,
    "reset_text": "月流量 500GB · 2026-12-21 左右重置 · 服务器计数器口径",
    "status": "active",
-   "used_percent": 3
+   "used_percent": 5
   },
   {
    "id": "landing-traffic",
    "name": "六六云落地 · 流量",
-   "remaining_text": "剩余约 976 GB",
+   "remaining_text": "剩余约 969 GB",
    "reset_at": null,
    "reset_text": "月流量 1TB · 2026-12-21 左右重置 · 服务器计数器口径",
    "status": "active",
-   "used_percent": 2
+   "used_percent": 3
   },
   {
    "id": "panda-vpn",
@@ -100,6 +100,6 @@
    "used_percent": null
   }
  ],
- "updated_at": "2026-11-23T17:42:14+08:00",
- "updated_at_text": "2026-11-23 17:42 CST"
+ "updated_at": "2026-11-23T23:44:00+08:00",
+ "updated_at_text": "2026-11-23 23:44 CST"
 }
