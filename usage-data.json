@@ -3,11 +3,11 @@
   {
    "id": "muse-weekly",
    "name": "Muse 订阅周用量（Power 档）",
-   "remaining_text": "剩余 48%",
+   "remaining_text": "剩余 46%",
    "reset_at": "2026-11-27T20:26:00+08:00",
    "reset_text": "2026-11-27 20:26 CST 重置",
    "status": "active",
-   "used_percent": 52
+   "used_percent": 54
   },
   {
    "id": "muse-referral-pool",
@@ -66,16 +66,16 @@
   {
    "id": "dmit-front-traffic",
    "name": "DMIT 香港前置 · 流量",
-   "remaining_text": "剩余约 466 GB",
+   "remaining_text": "剩余约 461 GB",
    "reset_at": null,
    "reset_text": "月流量 500GB · 2026-12-21 左右重置 · 服务器计数器口径",
    "status": "active",
-   "used_percent": 7
+   "used_percent": 8
   },
   {
    "id": "landing-traffic",
    "name": "六六云落地 · 流量",
-   "remaining_text": "剩余约 961 GB",
+   "remaining_text": "剩余约 956 GB",
    "reset_at": null,
    "reset_text": "月流量 1TB · 2026-12-21 左右重置 · 服务器计数器口径",
    "status": "active",
@@ -100,6 +100,6 @@
    "used_percent": null
   }
  ],
- "updated_at": "2026-11-24T11:42:00+08:00",
- "updated_at_text": "2026-11-24 11:42 CST"
+ "updated_at": "2026-11-24T17:43:00+08:00",
+ "updated_at_text": "2026-11-24 17:43 CST"
 }
