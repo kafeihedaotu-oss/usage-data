@@ -84,11 +84,11 @@
   {
    "id": "modal-gpu",
    "name": "Modal GPU 月额度",
-   "remaining_text": "剩余 $13.34",
+   "remaining_text": "剩余 $0",
    "reset_at": null,
-   "reset_text": "每月刷新 $30 · Starter 档 · 数截至 11-23 00:07 预警邮件，S3F 本轮未计",
+   "reset_text": "每月刷新 $30 · 本月总用量约 $41.13：额度已用满，超额 $11.13 中 $10 已付（11-24 回执）、$1.13 待开票",
    "status": "active",
-   "used_percent": 56
+   "used_percent": 100
   },
   {
    "id": "colab-gpu",
