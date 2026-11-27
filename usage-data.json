@@ -3,11 +3,11 @@
   {
    "id": "muse-weekly",
    "name": "Muse 订阅周用量（Power 档）",
-   "remaining_text": "剩余 29%",
+   "remaining_text": "剩余 26%",
    "reset_at": "2026-11-27T20:26:00+08:00",
    "reset_text": "2026-11-27 20:26 CST 重置",
    "status": "active",
-   "used_percent": 71
+   "used_percent": 74
   },
   {
    "id": "muse-referral-pool",
@@ -21,11 +21,11 @@
   {
    "id": "agy-ruiwen",
    "name": "瑞雯",
-   "remaining_text": "剩余 54%",
-   "reset_at": "2026-11-27T01:29:17+08:00",
-   "reset_text": "2026-11-27 01:29 CST 重置（5 小时池）",
+   "remaining_text": "剩余 66%",
+   "reset_at": "2026-11-27T15:21:04+08:00",
+   "reset_text": "2026-11-27 15:21 CST 重置（5 小时池）",
    "status": "active",
-   "used_percent": 46
+   "used_percent": 34
   },
   {
    "id": "agy-ruilan",
@@ -39,17 +39,17 @@
   {
    "id": "agy-ruixi",
    "name": "瑞汐",
-   "remaining_text": "剩余 58%",
-   "reset_at": "2026-11-27T02:03:46+08:00",
-   "reset_text": "2026-11-27 02:03 CST 重置（5 小时池）",
+   "remaining_text": "剩余 90%",
+   "reset_at": "2026-11-27T16:26:54+08:00",
+   "reset_text": "2026-11-27 16:26 CST 重置（5 小时池）",
    "status": "active",
-   "used_percent": 42
+   "used_percent": 10
   },
   {
    "id": "agy-ruixuan",
    "name": "瑞璇",
    "remaining_text": "剩余 0%",
-   "reset_at": "2026-12-03T11:42:40+08:00",
+   "reset_at": "2026-12-03T11:42:39+08:00",
    "reset_text": "2026-12-03 11:42 CST 重置（周池）",
    "status": "active",
    "used_percent": 100
@@ -111,11 +111,11 @@
   {
    "id": "landing-traffic",
    "name": "六六云落地 · 流量",
-   "remaining_text": "剩余约 906 GB",
+   "remaining_text": "剩余约 897 GB",
    "reset_at": null,
    "reset_text": "月流量 1TB · 2026-12-21 左右重置 · 服务器计数器口径",
    "status": "active",
-   "used_percent": 9
+   "used_percent": 10
   },
   {
    "id": "panda-vpn",
@@ -136,6 +136,6 @@
    "used_percent": null
   }
  ],
- "updated_at": "2026-11-26T23:43:00+08:00",
- "updated_at_text": "2026-11-26 23:43 CST"
+ "updated_at": "2026-11-27T11:43:00+08:00",
+ "updated_at_text": "2026-11-27 11:43 CST"
 }
